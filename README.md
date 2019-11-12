@@ -13,5 +13,5 @@ Hello again, I welcome each and everyone of you. In this article, we will go thr
 
 
 
-Feel free to read the whole article on my blog [React Native Screen Transitions]([https://reactnativemaster.com/react-native-screen-transitions/](https://reactnativemaster.com/react-native-screen-transitions/))
+Feel free to read the whole article on my blog [React Native Checkbox Component Example](https://reactnativemaster.com/react-native-checkbox-component-example)
 If you would like to try the app on Expo, I have prepared an expo project, check it from  [Expo.io](https://exp.host/@alhydra/react-native-checkbox-component-example)
